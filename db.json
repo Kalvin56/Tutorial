@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "url": "https://fyooyzbm.filerobot.com/v7/https://static01.nicematin.com/media/npo/xlarge/2017/07/jallet-1.jpg?w=480&h=382&gravity=auto&func=crop",
+      "place": "Stade de Gerland",
+      "date": "16 Mars 2017",
+      "description": "Tu me passeras pas.",
+      "likes": 109
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "url": "https://www.lyonmag.com/media/images/33283522395_bacb102481_o.jpg",
+      "place": "Stade de Gerland",
+      "date": "1 Janvier 2017",
+      "description": "Prêt pour le derby.",
+      "likes": 104
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "url": "https://assets-fr.imgfoot.com/media/cache/1200x900/christophe-jallet.jpg",
+      "place": "Stade de France",
+      "date": "28 Mars 2018",
+      "description": "Mon dernier match en équipe de France.",
+      "likes": 304
+    },
+    {
+      "id": 4,
+      "user_id": 2,
+      "url": "https://p2.piqsels.com/preview/470/380/874/gelato-italy-ice-cream.jpg",
+      "place": "Super Glacier, Reims",
+      "date": "29 Juin 2021",
+      "description": "Aujourd'hui j'ai manger une glace.",
+      "likes": 32
+    },
+    {
+      "id": 5,
+      "user_id": 2,
+      "url": "https://images.pexels.com/photos/2311713/pexels-photo-2311713.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "place": "Bobital",
+      "date": "20 Juillet 2020",
+      "description": "Top ce festival.",
+      "likes": 102
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "pseudo": "Christophe Jallet",
+      "url": "https://img.a.transfermarkt.technology/portrait/big/28335-1465213642.jpg?lm=1",
+      "description": "Le meilleur joueur de football de sa génération."
+    },
+    {
+      "id": 2,
+      "pseudo": "Monsieur Toutlemonde",
+      "url": "https://thispersondoesnotexist.com/image",
+      "description": "Un homme vraiment commun"
+    }
+  ]
+}
